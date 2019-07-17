@@ -4,10 +4,10 @@
 // @match *://www.google.cn/search*
 // @run-at document-start
 // @downloadURL https://github.com/qcts33/GreaseMonkey/raw/master/random_google.user.js
-// @version 0.1
+// @version 0.1.1
 // ==/UserScript==
 
-
+//https://www.google.com/supported_domains
 google_url = [
     'www.google.com',
     'www.google.ad',
