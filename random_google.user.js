@@ -3,6 +3,8 @@
 // @namespace random-google
 // @match *://www.google.cn/search*
 // @run-at document-start
+// @downloadURL https://github.com/qcts33/GreaseMonkey/raw/master/random_google.user.js
+// @version 0.1
 // ==/UserScript==
 
 
