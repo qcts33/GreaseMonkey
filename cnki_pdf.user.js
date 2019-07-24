@@ -13,5 +13,4 @@ pdf_url.hostname = pdf_url.hostname.replace("kns", "gb.oversea");
 pdf_url.pathname = pdf_url.pathname.replace("kns", "kcms");
 pdf_url.searchParams.set("dflag", "pdfdown");
 pdf_url.protocol = "http:";
-console.log(pdf_url.href);
-element.href = pdf_url.href
+element.href = pdf_url.href;
