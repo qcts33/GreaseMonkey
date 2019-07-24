@@ -2,6 +2,7 @@
 // @name CNKI PDF
 // @namespace cnki-pdf
 // @match *://kns.cnki.net/kcms/detail/detail.aspx*
+// @match *://kns.cnki.net/KCMS/detail/detail.aspx*
 // @downloadURL https://github.com/qcts33/GreaseMonkey/raw/master/cnki_pdf.user.js
 // @version 0.1.1
 // ==/UserScript==
